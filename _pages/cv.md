@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Biography
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Dr. Xue Lei is a scholar in Management Science. His research focuses on corporate sustainable development, environmental policy impacts, technological innovation, and regional economics. His research has been published in leading journals including *Technology in Society*, *Economics Letters*, *International Review of Financial Analysis*, *Journal of Environmental Management*, *Journal of Cleaner Production*, *Journal of Manufacturing Technology Management*, *Journal of Engineering and Technology Management*, and *Energy Economics*.
 
-Work experience
+Contact
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Affiliation:** School of Management, Shanghai University
+* **Email:** leixue187@gmail.com; leixue_work@shu.edu.cn
+* **ORCID:** [0000-0001-5635-6784](https://orcid.org/0000-0001-5635-6784)
+* **Google Scholar:** [Profile](https://scholar.google.com/citations?user=Fl9fzV8AAAAJ&hl=zh-CN)
+* **ResearchGate:** [Profile](https://www.researchgate.net/profile/Xue-Lei-20/research)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Academic Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Editorial Board Member, *Oeconomia Copernicana*
+* Editorial Board Member, *Journal of East European Management Studies*
+* Editorial Board Member, *Human Resources Management and Services*
+* Associate Editor, *Politická ekonomie*
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
