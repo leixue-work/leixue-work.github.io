@@ -5,9 +5,9 @@ title                    : "Xue Lei"
 title_separator          : "-"
 name                     : &name "Xue Lei"
 description              : &description "Academic portfolio of Dr. Xue Lei, School of Management, Shanghai University"
-url                      : https://your-github-username.github.io
+url                      : https://leixue-work.github.io
 baseurl                  : ""
-repository               : "your-github-username/your-github-username.github.io"
+repository               : "leixue-work/leixue-work.github.io"
 
 # Site Author
 author:
