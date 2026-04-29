@@ -39,7 +39,7 @@ Academic Appointments
 * Editorial Board Member, *Journal of East European Management Studies*
 * Editorial Board Member, *Human Resources Management and Services*
 * Associate Editor, *Politická ekonomie*
-* Guest Associate Editor, *Frontiers in Cognition*
+* Guest Editor, *Frontiers in Cognition*
 
 Publications
 ======
