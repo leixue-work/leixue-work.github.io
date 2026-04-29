@@ -27,7 +27,7 @@ Dr. Xue Lei is a scholar in Management Science. His research focuses on corporat
 
 Contact
 ======
-* **Affiliation:** School of Management, Shanghai University
+* **Affiliation:** Shanghai University
 * **Email:** leixue187@gmail.com; leixue_work@shu.edu.cn
 * **ORCID:** [0000-0001-5635-6784](https://orcid.org/0000-0001-5635-6784)
 * **Google Scholar:** [Profile](https://scholar.google.com/citations?user=Fl9fzV8AAAAJ&hl=zh-CN)
